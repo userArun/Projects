@@ -1,0 +1,9 @@
+INSTRUCTIONS:
+
+1] Open XAMPP control panel.
+2] Start APACHE and MYSQL server.
+3] Head to URL “http://localhost/phpmyadmin“ or click admin option in the XAMMPP control panel.
+4] Create a Database with a name that is provided inside the “01 LOGIN DETAILS & PROJECT INFO.txt”.
+5] Click on the “Import” tab and choose the database file (.sql) which is provided under the folder naming “DATABASE FILE”.
+6] After setting up all these, go to URL “http://localhost/eCommerceSite-PHP/“
+7] All the login details are provided inside the project folder, check that out and enter in order to use it.
